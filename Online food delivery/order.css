@@ -1,0 +1,142 @@
+.container-order
+{
+    border: px solid green;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+
+}
+
+.container-order .container-order-left
+{
+    border: px solid black;
+    width: 50%;
+    height: auto;
+    margin-top:5%;
+    text-align: center;
+}
+
+
+.container-order .container-order-left button
+{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 50px;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 5%;
+}
+
+
+
+.container-order .container-order-right
+{
+    border:px solid red;
+    width: 50%;
+}
+
+
+
+.container-order button a
+{
+    text-decoration: none;
+    color:white;
+    text-underline-position: none;
+}
+
+
+
+.container-order .container-order-right
+{
+    width:50%;
+    height:auto;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-order-right .form
+{
+    border: px solid green;
+    width:95%;
+    height: auto;
+    padding: 25px;
+    box-shadow: 5px 5px 20px 5px gray;
+    margin-bottom: 40px;
+}
+
+.container-order-right .form input[type=text]
+{
+    width:90%;
+    height:auto;
+    font-size: 18px;
+    padding: 5px;
+    margin: 5px; 
+}
+
+.container-order-right .form select
+{
+    width:100%;
+    height:auto; 
+    font-size: 18px;
+    margin-bottom: px;
+    color:gray;
+}
+
+.container-order-right .form button
+{
+    width:100%;
+    height:40px; 
+    font-size: 18px;
+    margin-bottom: 10px; 
+    color:black;
+    background-color: goldenrod;
+    font-size: 30px;
+    border-radius: 10px;
+    outline: none;
+    border:0px;
+    box-shadow: 7px 7px 5px gray;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.container-order-right .form textarea
+{
+    width:100%;
+    height:100px;
+    padding: 5px;
+    font-size: 18px; 
+    margin-bottom: 10px;
+}
+.container-order-right p
+{
+    text-align: center;
+    color: gray;
+    font-size: 18px;
+}
+
+.container-order-right .form input[type=checkbox]
+{
+    height: 15px;
+    width:15px;
+    margin-right: 12px;
+    margin-left: 12px;
+}
+
+
+
+.container-order-right .form
+{
+    border: px solid black;
+    width: 80%;
+    height: 90%;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

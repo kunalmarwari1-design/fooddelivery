@@ -1,0 +1,35 @@
+.container-menu
+{
+	border: px solid yellow;
+	width: 80%;
+	height: auto;
+	overflow: hidden;
+	padding: 15px;
+}
+
+.container-img
+{
+	border: 0px solid red;
+	width: 220px ;
+	height: 210px;
+	margin: 10px;
+	box-shadow: 6px 6px 10px grey;
+	float: left;
+	transition: transform 1s;
+}
+
+.container-img img 
+{
+	width: 95%;
+}
+.container-img .fa-star
+{
+	font-size: 22px;
+	color: orange;
+}
+
+.container-img:hover
+{
+	transform: scale(1.1);
+
+}
