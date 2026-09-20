@@ -51,7 +51,7 @@ The project is suitable for:
 | CSS3 | Styling and layout |
 | Git | Version control |
 | GitHub | Source code hosting |
-| GitHub Pages | Website deployment |
+| Netlify | Website deployment |
 
 ---
 
@@ -59,4 +59,5 @@ The project is suitable for:
 
 Kunal Marwari
 MCA Student | Developer | Building Web & Software Projects |
+
 🔗 LinkedIn: http://www.linkedin.com/in/kunal-marwari-391847438
