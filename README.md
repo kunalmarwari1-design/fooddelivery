@@ -58,6 +58,9 @@ The project is suitable for:
 👨‍💻 Author
 
 Kunal Marwari
+
 MCA Student | Developer | Building Web & Software Projects |
 
-🔗 LinkedIn: http://www.linkedin.com/in/kunal-marwari-391847438
+💻 GitHub: https://github.com/kunalmarwari1-design?tab=repositories
+
+💼 LinkedIn: http://www.linkedin.com/in/kunal-marwari-391847438
